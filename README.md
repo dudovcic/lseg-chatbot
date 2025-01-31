@@ -1,6 +1,7 @@
 # UI Chatbot
 
 Web app stack: React + TypeScript + Vite
+Components: ShadCN + TailwindCSS
 
 ## Setup app locally
 
