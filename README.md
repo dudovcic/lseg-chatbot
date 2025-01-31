@@ -6,7 +6,7 @@ Web app stack: React + TypeScript + Vite
 
 - cd into project ```cd lseg-chatbot```
 - Install dependencies: ```npm i```
-- Run: ```npm run dev````
+- Run: ```npm run dev```
 
 - The application will run on http://localhost:5173/lseg-chatbot/
 
