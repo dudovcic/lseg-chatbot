@@ -4,7 +4,7 @@ import {
   ChatContentOptions,
   Exchange,
   Message,
-} from "./chat.types";
+} from "../types";
 import { Stock } from "@/data/stocks.data";
 
 export interface ChatContextType {

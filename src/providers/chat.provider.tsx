@@ -5,7 +5,7 @@ import {
   ChatContentOptions,
   Exchange,
   Message,
-} from "./chat.types";
+} from "../types";
 import { stockExchangeData as data, Stock } from "@/data/stocks.data";
 import { toast } from "sonner";
 

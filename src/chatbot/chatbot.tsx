@@ -1,7 +1,7 @@
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
 import { useChatContext } from "@/providers/chat.context";
-import { CHAT_ACTION, Exchange, Message } from "@/providers/chat.types";
+import { CHAT_ACTION, Exchange, Message } from "@/types";
 import { Bot, Send, User } from "lucide-react";
 import { useEffect, useRef } from "react";
 import { ChatMessagesContent } from "./chat-messages-content";

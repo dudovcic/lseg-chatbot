@@ -2,7 +2,7 @@ import { render, renderHook, screen } from "@testing-library/react";
 import { ChatProvider } from "./chat.provider";
 import { useChatContext } from "./chat.context";
 import { test, expect } from "vitest";
-import { CHAT_ACTION } from "./chat.types";
+import { CHAT_ACTION } from "../types";
 
 const TestComponent = () => {
   const { messages, selectedExchange, selectedStock } = useChatContext();

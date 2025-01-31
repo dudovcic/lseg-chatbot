@@ -1,5 +1,5 @@
 import { Button } from "@/components/ui/button";
-import { CHAT_ACTION, Message } from "@/providers/chat.types";
+import { CHAT_ACTION, Message } from "@/types";
 import { ArrowLeft } from "lucide-react";
 
 interface ChatMessagesContentProps {
